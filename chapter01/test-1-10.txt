@@ -1,0 +1,5 @@
+input text file is:
+5					tabs
+backspaces
+5\\\\\backslashs
+end!

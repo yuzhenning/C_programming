@@ -1,0 +1,5 @@
+1stline	1tab	e
+
+2nd	2tabs		e
+
+3rd	3tabs			end!

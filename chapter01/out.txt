@@ -1,0 +1,4 @@
+Check Error Results: 
+"\nHello /*how about? */ %d \n",1/2);
+}
+

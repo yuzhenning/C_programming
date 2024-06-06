@@ -1,0 +1,4 @@
+1st line    abcDEfg;--trailing 
+2nd line    abcDEfg;--trailing 1ta
+END!
+!!

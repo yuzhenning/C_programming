@@ -1,0 +1,7 @@
+This is a short text for testing character and words counting programs.
+It's including charters abcdefg, ABCDEFG.
+blanks        
+tabs 			
+symbols ,./;'[])(*&^%$#@!?><:"| 
+numbers 1234567890
+Let's counting words!!!

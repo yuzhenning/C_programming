@@ -1,0 +1,12 @@
+one space
+two space space
+one	tab
+two	tab	tab
+five     space
+three			tab	
+end
+blank line:
+
+slash\\\slash
+end
+totally 20 words

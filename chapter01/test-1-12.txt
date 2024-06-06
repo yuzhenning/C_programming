@@ -1,0 +1,14 @@
+exercise one-twelve:
+      pri2134nts its##$ #input @#$%##one word#$% per line!
+
+
+
+
+
+
+
+
+
+
+
+end!
